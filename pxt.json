@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "cBit": "github:zwb1558183846/cBit#c568d52972e0e507a69c479e88f79338b95cf307"
     },
     "files": [
         "main.blocks",
